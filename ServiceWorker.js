@@ -1,9 +1,9 @@
-const cacheName = "Mahdi Studios-Codename-Protect-0.03";
+const cacheName = "Mahdi Studios-Codename-Protect-0.04";
 const contentToCache = [
-    "Build/Web.loader.js",
-    "Build/Web.framework.js",
-    "Build/Web.data",
-    "Build/Web.wasm",
+    "Build/Codename-Protect-WEB.loader.js",
+    "Build/Codename-Protect-WEB.framework.js",
+    "Build/Codename-Protect-WEB.data",
+    "Build/Codename-Protect-WEB.wasm",
     "TemplateData/style.css"
 
 ];
